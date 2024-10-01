@@ -24,5 +24,12 @@ Este projeto é uma aplicação web que permite buscar e visualizar detalhes de 
 ├── js
 │   └── script.js      # Arquivo JavaScript com a lógica da aplicação
 └── index.html         # Arquivo HTML principal
+```
 
+## Créditos
+Este projeto foi desenvolvido por:
 
+- Hugo Lelly de Lima Marinho
+- Universidade de Vassouras – Campus Maricá
+- Laboratório de Programação Front End
+- Fabrício Dias

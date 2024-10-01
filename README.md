@@ -1,4 +1,5 @@
 # API OMDb Filmes
+Avaliação P1 - Laboratório de Programação Front End
 
 Este projeto é uma aplicação web que permite buscar e visualizar detalhes de filmes usando a API OMDb. Os usuários podem buscar filmes, ver detalhes, e adicionar filmes aos favoritos.
 
